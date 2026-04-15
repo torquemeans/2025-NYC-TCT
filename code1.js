@@ -77,7 +77,7 @@ campaignTrail_temp.candidate_json = [
             "description": "<p>SLIWA</p>",
             "color_hex": "#a51d2d",
             "secondary_color_hex": "#A1FFA1",
-            "is_active": 1,
+            "is_active": 0,
             "image_url": "",
             "electoral_victory_message": "<h3>WIN</p>",
             "electoral_loss_message": "<h3>LOSS</p>",
@@ -425,7 +425,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-campaignTrail_temp.credits = "Dan Bryan"
+campaignTrail_temp.credits = "Anonymous";
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -503,7 +503,7 @@ document.getElementById("header").src = "https://github.com/torquemeans/2025-NYC
 
 document.body.background = 'https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MiscNewYorkPictureNight.png?raw=true';//"https://files.catbox.moe/zge9ne.png";
 
-document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#99c1f1!important;}</style>";
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#FEA73D!important;}</style>";
 
 corrr=`\n<h2><font color='white';font-style='normal';>Where Worlds Collide</font></h2>`
 
@@ -584,7 +584,7 @@ document.addEventListener('click', function(event) {
   if (form) {
     const h3 = form.getElementsByTagName('h3')[0];
     if (h3) {
-      h3.textContent = 'The Great Game';
+      h3.innerHTML = '<span style="color: #F8F8F8;"><b>The Great Game</b></span>';
     }
   }
 });
