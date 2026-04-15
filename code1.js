@@ -5,12 +5,12 @@ campaignTrail_temp.election_json = [
         "fields": {
             "year": 2000,
             "summary": "<p>Cuomo vies for the mayorship after leaving office six years earlier for a sexual assault scandal. Zohran Mamdani attempts to take the mayorship for himself against all odds. And Curtis Sliwa attempts to keep the republican party in the discussion.</p>",
-            "image_url": "https://i.abcnewsfe.com/a/ea145a04-8183-4225-8d15-c6e23385ae0f/nyc-mayor-gty-gmh-251009_1760019839052_hpMain.jpg",
+            "image_url": "",
             "winning_electoral_vote_number": 270,
-            "advisor_url": "https://www.jetsimon.com/public/static/images/rove-brazile.jpg",
-            "recommended_reading": "<h4 style=\"margin-top: 0.5em;\">The Florida Recount / 2000 Election</h4><a href=\"http://www.amazon.com/exec/obidos/ASIN/B000RH0DVM/amhius20-20\" target=”_blank”>Jeffrey Toobin - Too Close to Call: The Thirty-Six-Day Battle to Decide the 2000 Election</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B00EMLDHFI/amhius20-20\" target=”_blank”>Andrew E. Busch & James W. Ceaser - The Perfect Tie: The True Story of the 2000 Presidential Election</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/032110028X/amhius20-20\" target=”_blank”>Larry Sabato - Overtime! The Election 2000 Thriller</a><h4>Books by the Candidates</h4><a href=\"http://www.amazon.com/exec/obidos/ASIN/B000C4SV2I/amhius20-20\" target=”_blank”>George W. Bush - A Charge to Keep: My Journey to the White House</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/0452269350/amhius20-20\" target=”_blank”>Al Gore - Earth in the Balance</a></br><a href=\"http://www.amazon.com/exec/obidos/ASIN/B003YFIYWY/amhius20-20\" target=”_blank”>The Ralph Nader Reader</a><h4>Links</h4><a href=\"http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=2&psid=3377\" target=”_blank”>Digital History - The Disputed Election of 2000</a></br><a href=\"http://www.pbs.org/wnet/supremecourt/future/landmark_bush.html\" target=”_blank”><em>Bush v. Gore</em></a></br><a href=\"http://www.vanityfair.com/news/2004/10/florida-election-2000\" target=”_blank”>The Path to Florida</a></br><a href=\"http://www.historyplace.com/speeches/gore-concedes.htm\" target=”_blank”>Al Gore Concedes the 2000 Election</a>",
-            "has_visits": 1,
-            "no_electoral_majority_image": "https://www.jetsimon.com/public/static/images/2012-no-majority.jpg",
+            "advisor_url": "",
+            "recommended_reading": "",
+            "has_visits": 0,
+            "no_electoral_majority_image": "",
             "creator": "Anonymous",
             "display_year": "Weclome to New York"
         }
@@ -32,7 +32,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#1a275e",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 1,
-            "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Zohran_Mamdani_05.25.25_%28b%29_%28cropped%29.jpg",
+            "image_url": "https://github.com/torquemeans/2025-NYC-TCT/blob/41db33ad3f145a5e6ae0a76379958046e788aacb/Untitled1589_20260415004547.png?raw=true",
             "electoral_victory_message": "<h3>WIN</p>",
             "electoral_loss_message": "<h3>LOSS</p>",
             "no_electoral_majority_message": "<h3>TIE</p>",
@@ -55,7 +55,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#ffbe6f",
             "secondary_color_hex": "#90C0FF",
             "is_active": 1,
-            "image_url": "https://www.jetsimon.com/public/static/images/al-gore-2000.jpg",
+            "image_url": "https://github.com/torquemeans/2025-NYC-TCT/blob/41db33ad3f145a5e6ae0a76379958046e788aacb/5B5CC5E4-0FBC-46D9-91BA-9398F316F58A.png?raw=true",
             "electoral_victory_message": "<h3>WIN</p>",
             "electoral_loss_message": "<h3>LOSS</p>",
             "no_electoral_majority_message": "<h3>TIE</p>",
@@ -78,12 +78,12 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#a51d2d",
             "secondary_color_hex": "#A1FFA1",
             "is_active": 1,
-            "image_url": "https://www.jetsimon.com/public/static/images/ralph-nader-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "<h3>WIN</p>",
             "electoral_loss_message": "<h3>LOSS</p>",
             "no_electoral_majority_message": "<h3>TIE</p>",
             "description_as_running_mate": "''",
-            "candidate_score": 1,
+            "candidate_score": 0,
             "running_mate": false
         }
     },
@@ -124,7 +124,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/dick-cheney-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -147,7 +147,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/john-danforth-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -170,7 +170,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/tom-ridge-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -193,7 +193,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/colin-powell-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -216,7 +216,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#0000FF",
             "secondary_color_hex": "#90C0FF",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/joe-lieberman-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -239,7 +239,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#0000FF",
             "secondary_color_hex": "#90C0FF",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/bob-graham-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -262,7 +262,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#0000FF",
             "secondary_color_hex": "#90C0FF",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/john-kerry-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -285,7 +285,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#0000FF",
             "secondary_color_hex": "#90C0FF",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/evan-bayh-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -308,7 +308,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#00C100",
             "secondary_color_hex": "#A1FFA1",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/winona-laduke-2000.jpg",
+            "image_url": "",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
@@ -495,17 +495,19 @@ $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selected
 
 $(".container")[0].style.backgroundColor = "#1a275e";
 
-document.getElementById('game_start').innerHTML = '<b>Enter the City That Never Sleeps</b>';
+document.getElementById('game_start').innerHTML = '<b>Enter the City that Never Sleeps</b>';
 
-document.getElementsByClassName("game_header")[0].children[0].innerHTML = "https://files.catbox.moe/u2pptm.png";
+//document.getElementsByClassName("game_header")[0].children[0].innerHTML = "https://files.catbox.moe/u2pptm.png";
 
-document.getElementById("header").src = "https://files.catbox.moe/qirhgm.png";
+document.getElementById("header").src = "https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/BannerPlaceholder.png?raw=true";
 
-document.body.background = "https://files.catbox.moe/zge9ne.png";
+document.body.background = 'https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MiscNewYorkPictureNight.png?raw=true';//"https://files.catbox.moe/zge9ne.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#99c1f1!important;}</style>";
 
 corrr=`\n<h2><font color='white';font-style='normal';>Where Worlds Collide</font></h2>`
+
+//document.getElementsByClassName("inner_window_w_desc")[0].innerHTML = "Where Worlds Collide";
 
 document.getElementById("inner_window_1").children[0].innerHTML = ``;
 
@@ -524,13 +526,13 @@ document.getElementById("inner_window_1").children[1].innerHTML = `
                 New York City will be the first response to a changing America.
             </li>
             <li>
-                The <span style="color: #FEA73D;"><b><u>King of Clubs</u></b></span> is prepared to retake what's rightfully his, making up for the failures of the past.
+                The <span style="color: #FEA73D;"><b><i><u>King of Clubs</u></i></b></span> is prepared to retake what's rightfully his, making up for the failures of the past.
             </li>
             <li>
-                While the <span style="color: #d43636;"><u><b>Ace of Hearts</b></u></span> emerges from the shadows, ready to prove himself to the world. 
+                While the <span style="color: #d43636;"><u><i><b>Ace of Hearts</b></i></u></span> emerges from the shadows, ready to prove himself to the world. 
             </li>
             <li>
-                Good luck.
+                <i>Good luck.</i>
             </li>
         </ul>
         <br>
@@ -540,11 +542,11 @@ document.getElementById("inner_window_1").children[1].innerHTML = `
 
 const style = document.createElement('style');
 
-
+//https://files.catbox.moe/oq0s6y.woff2
 style.innerHTML += `
 @font-face {
   font-family: 'LibreBaskerville';
-  src: url('https://files.catbox.moe/oq0s6y.woff2') format('woff2');
+  src: url('https://github.com/torquemeans/2025-NYC-TCT/raw/refs/heads/main/resources/NewYorkFont.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -576,5 +578,15 @@ style.innerHTML += `
 `;
 
 document.head.appendChild(style);
+
+document.addEventListener('click', function(event) {
+  const form = document.getElementsByName('election_year')[0];
+  if (form) {
+    const h3 = form.getElementsByTagName('h3')[0];
+    if (h3) {
+      h3.textContent = 'The Great Game';
+    }
+  }
+});
 
 //#endcode
