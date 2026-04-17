@@ -556,7 +556,7 @@ const style = document.createElement('style');
 style.innerHTML += `
 @font-face {
   font-family: 'LibreBaskerville';
-  src: url('https://github.com/torquemeans/2025-NYC-TCT/raw/refs/heads/main/resources/NewYorkFont.woff2') format('woff2');
+  src: url('https://file.garden/aZyAKy2e7UEiSmg5/NewYorkFont.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -598,7 +598,8 @@ style.innerHTML += `
   display: list-item;
   left: -700px;
   top: -1000px;
-  border-radius: 15px;
+  /*border-radius: 15px;*/
+  box-shadow: -5px 5px #e81900;
 }
   
   #PausePlayButton {
@@ -622,7 +623,16 @@ document.head.appendChild(style);
 const MusicPlayer = document.createElement("div");
 MusicPlayer.id = "MusicPlayer";
 
-
+const SongTitle = document.createElement("div");
+SongTitle.style.fontSize = "1.5rem";
+SongTitle.style.textAlign = "center";
+SongTitle.style.color = "#2619d1";
+SongTitle.style.textShadow = "-0.5px 1px #e81900";
+const SongArtist = document.createElement("div");
+SongArtist.style.fontSize = "1rem";
+SongArtist.style.textAlign = "center";
+SongArtist.style.color = "#2619d1";
+SongArtist.style.textShadow = "-0.5px 1px #e81900";
 
 const ButtonList = document.createElement("div");
 ButtonList.style.display = "flex";
@@ -641,13 +651,14 @@ const SongArray = [
     artist: "Radiohead",
     art: "https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MyxomatosisCoverArt.png?raw=true",
     src: "https://github.com/torquemeans/2025-NYC-TCT/raw/refs/heads/main/resources/Myxomatosis_Radiohead.mp3",
-    color: "linear-gradient(to bottom, #C94410 45%, #2C1912 98%)"
+    color: "#ffab00"
   }
 ];
  
 let CurrentSong = SongArray[0];
 audio.src = CurrentSong.src;
- 
+SongTitle.textContent = CurrentSong.title;
+SongArtist.textContent = CurrentSong.artist;
 const PausePlayButton = document.createElement("button");
 PausePlayButton.id = "PausePlayButton";
 PausePlayButton.style.all = "unset";
@@ -765,7 +776,8 @@ SongArt.style.borderRadius = "15px";
  
 MusicPlayer.appendChild(SongArt);
 MusicPlayer.appendChild(audio);
-
+MusicPlayer.appendChild(SongTitle);
+MusicPlayer.appendChild(SongArtist);
 ButtonList.appendChild(ShuffleButton);
 ButtonList.appendChild(RevertButton);
 ButtonList.appendChild(PausePlayButton);
