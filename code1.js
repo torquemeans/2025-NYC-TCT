@@ -772,7 +772,7 @@ SongArt.style.height = "246px";
 SongArt.style.marginTop = "0px";
 SongArt.style.left = "0px";
 SongArt.style.position = "relative";
-SongArt.style.borderRadius = "15px";
+//SongArt.style.borderRadius = "15px";
  
 MusicPlayer.appendChild(SongArt);
 MusicPlayer.appendChild(audio);
