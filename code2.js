@@ -1163,7 +1163,7 @@ campaignTrail_temp.states_json = [
             "name": "District 42",
             "abbr": 42,
             "electoral_votes": 0,
-            "popular_votes": 10,
+            "popular_votes": 20332,
             "poll_closing_time": 120,
             "winner_take_all_flg": 0,
             "election": "9"
@@ -1658,7 +1658,7 @@ campaignTrail_temp.states_json = [
             "name": "District 63",
             "abbr": 63,
             "electoral_votes": 0,
-            "popular_votes": 10,
+            "popular_votes": 9738,
             "poll_closing_time": 120,
             "winner_take_all_flg": 0,
             "election": "9"
