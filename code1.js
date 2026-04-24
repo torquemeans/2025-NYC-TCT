@@ -501,7 +501,7 @@ document.getElementById('game_start').innerHTML = '<b>Enter the City that Never 
 
 document.getElementById("header").src = "https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/BannerPlaceholder.png?raw=true";
 
-document.body.background = 'https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MiscNewYorkPictureNight.png?raw=true';//"https://files.catbox.moe/zge9ne.png";
+document.body.background = `https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/GameBackground.webp?raw=true`//'https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MiscNewYorkPictureNight.png?raw=true';//"https://files.catbox.moe/zge9ne.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#FEA73D!important;}</style>";
 
