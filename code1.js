@@ -503,6 +503,8 @@ document.getElementById("header").src = "https://github.com/torquemeans/2025-NYC
 
 document.body.background = `https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/GameBackground.webp?raw=true`//'https://github.com/torquemeans/2025-NYC-TCT/blob/main/resources/MiscNewYorkPictureNight.png?raw=true';//"https://files.catbox.moe/zge9ne.png";
 
+document.body.style.backgroundSize = '102%';
+
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#FEA73D!important;}</style>";
 
 corrr=`\n<h2><font color='white';font-style='normal';>Where Worlds Collide</font></h2>`
