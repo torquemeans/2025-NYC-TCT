@@ -7,6 +7,7 @@
 	- Competitive, focused elections. The mod will make you focus heavily on attempting to win, with it being challenging for both sides, to emphasize the stakes.
 	- The code will be Organized and reusable for future projects, with a very repackagable base. 
 	- Remaining accurate in the elections, including the implementation of RCV and other elements, such as the election night timeline.
+	- The mod will focus on remaining entirely diegetic during gameplay.
 	- 
    - Extra:
 ## Gameplay Overview and Systems.

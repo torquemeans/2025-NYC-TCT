@@ -1793,7 +1793,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 27,
         "fields": {
-            "name": "Budget Surplus",
+            "name": "Socialism",
             "description": "",
             "stance_1": "Very Conservative",
             "stance_desc_1": "",
@@ -1816,7 +1816,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 28,
         "fields": {
-            "name": "Social Security",
+            "name": "Cuomo",
             "description": "",
             "stance_1": "Very Conservative",
             "stance_desc_1": "",
@@ -1839,7 +1839,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 29,
         "fields": {
-            "name": "Education",
+            "name": "Affordability",
             "description": "",
             "stance_1": "Very Conservative",
             "stance_desc_1": "",
@@ -1862,7 +1862,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 30,
         "fields": {
-            "name": "Foreign Policy",
+            "name": "Israel-Palestine",
             "description": "",
             "stance_1": "Very Conservative",
             "stance_desc_1": "",
@@ -1885,7 +1885,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 31,
         "fields": {
-            "name": "Bill Clinton",
+            "name": "Age",
             "description": "",
             "stance_1": "Very Unpopular",
             "stance_desc_1": "",
